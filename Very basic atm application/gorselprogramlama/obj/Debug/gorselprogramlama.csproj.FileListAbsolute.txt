@@ -1,0 +1,17 @@
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\bin\Debug\bankadatabase.mdf
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\bin\Debug\bankadatabase_log.ldf
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe.config
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\bin\Debug\gorselprogramlama.exe
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\bin\Debug\gorselprogramlama.pdb
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.csprojResolveAssemblyReference.cache
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.Form1.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.Properties.Resources.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.GenerateResource.cache
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.exe
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.pdb
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.islemlerForm.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.paraYatirForm.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.paraCekForm.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.havaleForm.resources
+C:\Users\_gokaycımen\source\repos\gorselprogramlama\gorselprogramlama\obj\Debug\gorselprogramlama.sifreDegistirForm.resources
